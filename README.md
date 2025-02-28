@@ -9,6 +9,9 @@
 
 我們使用了 `pandas` 與 `sqlite3` 建立了資料庫，利用 `numpy` 進行概念驗證並以 `gradio` 做出成品。
 
+可以點選 hugging face 的連結 參考成品
+<https://huggingface.co/spaces/EC0123/taiwan_presidential_election_2024>
+
 ## 如何重現
 
 - 安裝 Miniconda
